@@ -1,23 +1,21 @@
 # Praktikum-05
 Membuat Program Tampilan Daftar Nilai Mahasiswa Dengan Menggunakan Dictionary.
+![daftar](
 
 Pertama, Dictionarynya di Definisikan terlebih dahulu :
-
 daftar = {}
 
 Kedua, adalah Perulangan yang di gunakan :
-
 While True:
      Statement
      
 Perulangan tersebut adalah perulangan yang akan terus berjalan, dan akan berhenti jika kode berikut di eksekusi:
-
 if perintah.lower() == 'k':
     break
 
 Kode di tersebut berfungsi untuk menghentikan perulangan yang terus berlangsung tanpa ada kondisi untuk dipenuhi, di tulis di dalam kondisi if.
 
-![outpt1]
+![daftar](
 
 # 1. Input Data
 Kondisi berikut ini digunakan untuk melakukan input data seperti Nama, NIM, Nilai Tugas, UTS dan UAS :
