@@ -1,15 +1,19 @@
 # Praktikum-05
 Membuat Program Tampilan Daftar Nilai Mahasiswa Dengan Menggunakan Dictionary.
+
 ![daftar](
 
 Pertama, Dictionarynya di Definisikan terlebih dahulu :
+
 daftar = {}
 
 Kedua, adalah Perulangan yang di gunakan :
+
 While True:
      Statement
      
 Perulangan tersebut adalah perulangan yang akan terus berjalan, dan akan berhenti jika kode berikut di eksekusi:
+
 if perintah.lower() == 'k':
     break
 
