@@ -18,7 +18,9 @@ Perulangan tersebut adalah perulangan yang akan terus berjalan, dan akan berhent
              break
 
 Kode di tersebut berfungsi untuk menghentikan perulangan yang terus berlangsung tanpa ada kondisi untuk dipenuhi, di tulis di dalam kondisi if.
+
 Outputnya:
+
 ![daftar](https://github.com/putrinabila2301/Praktikum-05/blob/master/outpt1.jpg)
 
 # 1. Input Data
