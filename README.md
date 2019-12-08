@@ -1,7 +1,7 @@
 # Praktikum-05
 Membuat Program Tampilan Daftar Nilai Mahasiswa Dengan Menggunakan Dictionary.
 
-![daftar](
+![daftar](https://github.com/putrinabila2301/Praktikum-05/blob/master/Untitled%20Diagram%20(1).png)
 
 Pertama, Dictionarynya di Definisikan terlebih dahulu :
 
